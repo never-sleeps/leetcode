@@ -1,0 +1,1 @@
+**[Two sum](https://leetcode.com/problems/two-sum/)** (easy) — **[solution](https://leetcode.com/problems/two-sum/)**
