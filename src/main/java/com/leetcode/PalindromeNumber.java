@@ -21,7 +21,7 @@ package com.leetcode;
  *
  * https://leetcode.com/problems/palindrome-number/
  */
-public class PalindromeNumber_9 {
+public class PalindromeNumber {
     public boolean isPalindrome(final int x) {
         if(x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
@@ -38,10 +38,10 @@ public class PalindromeNumber_9 {
 }
 class Main9 {
     public static void main(String[] args) {
-        var result1 = new PalindromeNumber_9().isPalindrome(121);
+        var result1 = new PalindromeNumber().isPalindrome(121);
         assert result1;
 
-        var result2 = new PalindromeNumber_9().isPalindrome(-121);
+        var result2 = new PalindromeNumber().isPalindrome(-121);
         assert !result2;
     }
 }
