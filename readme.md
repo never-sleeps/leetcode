@@ -8,3 +8,4 @@ vm options: -ea
 №9. **[Palindrome Number](https://leetcode.com/problems/palindrome-number/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/PalindromeNumber.java)**  
 №13. **[Roman To Integer](https://leetcode.com/problems/roman-to-integer/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/RomanToInteger.java)**  
 №14. **[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/LongestCommonPrefix.java)**
+№20. **[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/ValidParentheses.java)**
