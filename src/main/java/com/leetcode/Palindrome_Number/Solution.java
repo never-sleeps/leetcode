@@ -1,6 +1,8 @@
-package com.leetcode;
+package com.leetcode.Palindrome_Number;
 
 /**
+ * 9. Palindrome Number
+ *
  * Given an integer x, return true if x is palindrome integer.
  *
  * An integer is a palindrome when it reads the same backward as forward.
@@ -21,7 +23,7 @@ package com.leetcode;
  *
  * https://leetcode.com/problems/palindrome-number/
  */
-public class PalindromeNumber {
+public class Solution {
     public boolean isPalindrome(final int x) {
         if(x < 0 || (x % 10 == 0 && x != 0)) {
             return false;
@@ -36,12 +38,12 @@ public class PalindromeNumber {
         return invertedX == x;
     }
 }
-class Main9 {
+class Main {
     public static void main(String[] args) {
-        var result1 = new PalindromeNumber().isPalindrome(121);
+        var result1 = new Solution().isPalindrome(121);
         assert result1;
 
-        var result2 = new PalindromeNumber().isPalindrome(-121);
+        var result2 = new Solution().isPalindrome(-121);
         assert !result2;
     }
 }

@@ -1,10 +1,12 @@
-package com.leetcode;
+package com.leetcode.Valid_Parentheses;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
 /**
+ * 20. Valid Parentheses
+ *
  * Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
  *
  * An input string is valid if:
@@ -34,7 +36,7 @@ import java.util.Stack;
  *
  * https://leetcode.com/problems/valid-parentheses/
  */
-public class ValidParentheses {
+public class Solution {
     public boolean isValid(String s) {
         if (s.length() % 2 != 0) return false; // нечетное число символов в строке -> строка невалидна
 
@@ -62,18 +64,18 @@ public class ValidParentheses {
     }
 }
 
-class Main20 {
+class Main {
     public static void main(String[] args) {
-        var result1 = new ValidParentheses().isValid("()");
+        var result1 = new Solution().isValid("()");
         assert(result1);
 
-        var result2 = new ValidParentheses().isValid("()[]{}");
+        var result2 = new Solution().isValid("()[]{}");
         assert(result2);
 
-        var result3 = new ValidParentheses().isValid("(]");
+        var result3 = new Solution().isValid("(]");
         assert(!result3);
 
-        var result4 = new ValidParentheses().isValid("({[]})");
+        var result4 = new Solution().isValid("({[]})");
         assert(result4);
     }
 }

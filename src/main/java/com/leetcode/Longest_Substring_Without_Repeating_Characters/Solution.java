@@ -1,6 +1,8 @@
-package com.leetcode;
+package com.leetcode.Longest_Substring_Without_Repeating_Characters;
 
 /**
+ * 3. Longest Substring Without Repeating Characters
+ *
  * Given a string s, find the length of the longest substring without repeating characters.
  *
  * Example 1:
@@ -29,7 +31,7 @@ package com.leetcode;
  *
  * https://leetcode.com/problems/longest-substring-without-repeating-characters/
  */
-public class LongestSubstringWithoutRepeatingCharacters {
+public class Solution {
     public int lengthOfLongestSubstring(String s) {
         int count = 0;
         // seenCharacters - список индексов символов в строке. каждому коду ASCI символу соответствует индекс, на котором он встречается в строке
@@ -43,15 +45,15 @@ public class LongestSubstringWithoutRepeatingCharacters {
     }
 }
 
-class Main3 {
+class Main {
     public static void main(String[] args) {
-        var result = new LongestSubstringWithoutRepeatingCharacters().lengthOfLongestSubstring("abcabcbb");
+        var result = new Solution().lengthOfLongestSubstring("abcabcbb");
         assert result == 3;
 
-        var result2 = new LongestSubstringWithoutRepeatingCharacters().lengthOfLongestSubstring("bbbbb");
+        var result2 = new Solution().lengthOfLongestSubstring("bbbbb");
         assert result2 == 1;
 
-        var result3 = new LongestSubstringWithoutRepeatingCharacters().lengthOfLongestSubstring("pwwkew");
+        var result3 = new Solution().lengthOfLongestSubstring("pwwkew");
         assert result3 == 3;
     }
 }

@@ -1,8 +1,10 @@
-package com.leetcode;
+package com.leetcode.Two_Sum;
 
 import java.util.*;
 
 /**
+ * 1. Two Sum
+ *
  * Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
  *
  * You may assume that each input would have exactly one solution, and you may not use the same element twice.
@@ -26,7 +28,7 @@ import java.util.*;
  *
  * https://leetcode.com/problems/two-sum/
  */
-public class TwoSum {
+public class Solution {
 
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
@@ -44,13 +46,13 @@ public class TwoSum {
 
 class Main {
     public static void main(String[] args) {
-        var result1 = new TwoSum().twoSum(new int[] {2, 7, 11, 15}, 9);
+        var result1 = new Solution().twoSum(new int[] {2, 7, 11, 15}, 9);
         assert(Arrays.equals(result1, new int[]{0, 1}));
 
-        var result2 = new TwoSum().twoSum(new int[] {3, 2, 4}, 6);
+        var result2 = new Solution().twoSum(new int[] {3, 2, 4}, 6);
         assert(Arrays.equals(result2, new int[]{1, 2}));
 
-        var result3 = new TwoSum().twoSum(new int[] {3, 3}, 6);
+        var result3 = new Solution().twoSum(new int[] {3, 3}, 6);
         assert(Arrays.equals(result3, new int[]{0, 1}));
     }
 }

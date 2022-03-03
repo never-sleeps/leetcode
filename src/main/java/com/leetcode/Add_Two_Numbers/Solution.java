@@ -1,6 +1,8 @@
-package com.leetcode;
+package com.leetcode.Add_Two_Numbers;
 
 /**
+ * 2. Add Two Numbers
+ *
  * You are given two non-empty linked lists representing two non-negative integers.
  * The digits are stored in reverse order, and each of their nodes contains a single digit.
  * Add the two numbers and return the sum as a linked list.
@@ -55,7 +57,7 @@ class ListNode {
     }
 }
 
-public class AddTwoNumbers {
+public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode dummyHead = new ListNode(-1);
         ListNode l1_ = l1, l2_ = l2;
@@ -84,7 +86,7 @@ public class AddTwoNumbers {
     }
 }
 
-class Main2 {
+class Main {
     public static void main(String[] args) {
         ListNode x = new ListNode(2);
         ListNode y = new ListNode(4);
@@ -96,10 +98,10 @@ class Main2 {
         ListNode c = new ListNode(4);
         a.next = b;
         b.next = c;
-        var result1 = new AddTwoNumbers().addTwoNumbers(x, a);
+        var result1 = new Solution().addTwoNumbers(x, a);
         assert result1.toString().equals("[7,0,8]");
 
-        var result2 = new AddTwoNumbers().addTwoNumbers(new ListNode(0), new ListNode(0));
+        var result2 = new Solution().addTwoNumbers(new ListNode(0), new ListNode(0));
         assert result2.toString().equals("[0]");
 
         ListNode q11 = new ListNode(9);
@@ -122,7 +124,7 @@ class Main2 {
         q21.next = q22;
         q22.next = q23;
         q23.next = q24;
-        var result3 = new AddTwoNumbers().addTwoNumbers(q11, q21);
+        var result3 = new Solution().addTwoNumbers(q11, q21);
         assert result3.toString().equals("[8,9,9,9,0,0,0,1]");
     }
 }

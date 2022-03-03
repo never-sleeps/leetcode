@@ -1,6 +1,8 @@
-package com.leetcode;
+package com.leetcode.Longest_Common_Prefix;
 
 /**
+ * 14. Longest Common Prefix
+ *
  * Write a function to find the longest common prefix string amongst an array of strings.
  *
  * If there is no common prefix, return an empty string "".
@@ -26,7 +28,7 @@ package com.leetcode;
  *
  * https://leetcode.com/problems/longest-common-prefix/
  */
-public class LongestCommonPrefix {
+public class Solution {
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) return "";
         String result = "";
@@ -49,15 +51,15 @@ public class LongestCommonPrefix {
     }
 }
 
-class Main14 {
+class Main {
     public static void main(String[] args) {
-        var result0 = new LongestCommonPrefix().longestCommonPrefix(new String[] {"a"});
+        var result0 = new Solution().longestCommonPrefix(new String[] {"a"});
         assert "a".equals(result0);
 
-        var result1 = new LongestCommonPrefix().longestCommonPrefix(new String[] {"flower","flow","flight"});
+        var result1 = new Solution().longestCommonPrefix(new String[] {"flower","flow","flight"});
         assert "fl".equals(result1);
 
-        var result2 = new LongestCommonPrefix().longestCommonPrefix(new String[] {"dog","racecar","car"});
+        var result2 = new Solution().longestCommonPrefix(new String[] {"dog","racecar","car"});
         assert "".equals(result2);
     }
 }
