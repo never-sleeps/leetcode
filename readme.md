@@ -11,5 +11,5 @@ vm options: -ea
 №20. **[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Valid_Parentheses/Solution.java)**  
 №21. **[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Merge_Two_Sorted_Lists/Solution.java)**.  
 №26. **[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Remove_Duplicates_from_Sorted_Array/Solution.java)**.  
-№27. **[Remove Element](https://leetcode.com/problems/remove-element/)** (easy) — **[solution]()**.
+№27. **[Remove Element](https://leetcode.com/problems/remove-element/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Remove_Element/Solution.java)**.  
 №799. **[Champagne Tower](https://leetcode.com/problems/champagne-tower/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/tree/master/src/main/java/com/leetcode/Champagne_Tower)**  
