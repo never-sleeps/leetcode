@@ -13,4 +13,5 @@ vm options: -ea
 №26. **[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Remove_Duplicates_from_Sorted_Array/Solution.java)**.  
 №27. **[Remove Element](https://leetcode.com/problems/remove-element/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Remove_Element/Solution.java)**.  
 №28. **[Implement strStr()](https://leetcode.com/problems/implement-strstr/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Implement_strStr/Solution.java)**.  
+№35. **[Search Insert Position](https://leetcode.com/problems/search-insert-position/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Search_Insert_Position/Solution.java)**.
 №799. **[Champagne Tower](https://leetcode.com/problems/champagne-tower/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/tree/master/src/main/java/com/leetcode/Champagne_Tower)**  
