@@ -17,3 +17,4 @@ vm options: -ea
 13. №799. **[Champagne Tower](https://leetcode.com/problems/champagne-tower/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/tree/master/src/main/java/com/leetcode/Champagne_Tower)**  
 14. №278. **[First Bad Version](https://leetcode.com/problems/first-bad-version/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/First_Bad_Version/Solution.java)**.
 15. №5. **[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Longest_Palindromic_Substring/Solution.java)**
+16. №141. **[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Linked_List_Cycle/Solution.java)**
