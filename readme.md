@@ -16,3 +16,4 @@ vm options: -ea
 12. №35. **[Search Insert Position](https://leetcode.com/problems/search-insert-position/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Search_Insert_Position/Solution.java)**.  
 13. №799. **[Champagne Tower](https://leetcode.com/problems/champagne-tower/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/tree/master/src/main/java/com/leetcode/Champagne_Tower)**  
 14. №278. **[First Bad Version](https://leetcode.com/problems/first-bad-version/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/First_Bad_Version/Solution.java)**.
+15. №5. **[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Longest_Palindromic_Substring/Solution.java)**
