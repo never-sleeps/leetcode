@@ -18,3 +18,4 @@ vm options: -ea
 14. №278. **[First Bad Version](https://leetcode.com/problems/first-bad-version/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/First_Bad_Version/Solution.java)**.
 15. №5. **[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Longest_Palindromic_Substring/Solution.java)**
 16. №141. **[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Linked_List_Cycle/Solution.java)**
+17. №138. **[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Copy_List_with_Random_Pointer/Solution.java)**
