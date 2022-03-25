@@ -21,3 +21,4 @@ vm options: -ea
 17. №138. **[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Copy_List_with_Random_Pointer/Solution.java)**
 18. №71. **[Simplify Path](https://leetcode.com/problems/simplify-path/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Simplify_Path/Solution.java)**
 19. №881. **[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Boats_to_Save_People/Solution.java)**
+20. №1029. **[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Two_City_Scheduling/Solution.java)**
