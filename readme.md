@@ -27,4 +27,6 @@ vm options: -ea
 23. №31. **[Next Permutation](https://leetcode.com/problems/next-permutation/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Next_Permutation/Solution.java)**
 24. №1721. **[Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Swapping_Nodes_in_a_Linked_List/Solution.java)**
 25. №11. **[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Container_With_Most_Water/Solution.java)**
+26. №923. **[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/n_3Sum_With_Multiplicity/Solution.java)**
+
 
