@@ -30,6 +30,8 @@
 26. №923. **[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)** (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/n_3Sum_With_Multiplicity/Solution.java)**
 27. №1046. **[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Last_Stone_Weight/Solution.java)**.
 28. №703. **[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)** (easy) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Kth_Largest_Element_in_a_Stream/Solution.java)**.
+29. №347. **[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (medium) — **[solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Top_K_Frequent_Elements/Solution.java)**
+
 
 
 
