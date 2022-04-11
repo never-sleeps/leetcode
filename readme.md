@@ -32,6 +32,7 @@
 28. №703. [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) (easy) — [solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Kth_Largest_Element_in_a_Stream/Solution.java).
 29. №347. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (medium) — [solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Top_K_Frequent_Elements/Solution.java)
 30. №682. [Baseball Game](https://leetcode.com/problems/baseball-game/) (easy) — [solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Baseball_Game/Solution.java).
+31. №1260. [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) (easy) — [solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Shift_2D_Grid/Solution.java).
 
 
 
