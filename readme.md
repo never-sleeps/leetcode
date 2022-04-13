@@ -34,6 +34,7 @@
 30. №682. [Baseball Game](https://leetcode.com/problems/baseball-game/) (easy) — [solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Baseball_Game/Solution.java).
 31. №1260. [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) (easy) — [solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Shift_2D_Grid/Solution.java).
 32. №289. [Game of Life](https://leetcode.com/problems/game-of-life/) (medium) — [solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Game_of_Life/Solution.java)
+33. №59. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) (medium) — [solution](https://github.com/never-sleeps/leetcode/blob/master/src/main/java/com/leetcode/Spiral_Matrix_II/Solution.java)
 
 
 
